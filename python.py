@@ -6,3 +6,5 @@ for element in mymixList:
     else:
         print("it is not a list.")
         print("Add this line")
+        print("its okay")
+        print ("good")
