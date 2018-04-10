@@ -5,3 +5,4 @@ for element in mymixList:
         print (element)
     else:
         print("it is not a list.")
+        print("Add this line")
